@@ -225,7 +225,7 @@ export const roles = {
 
 export const quiz = {
   kicker: "Trắc nghiệm",
-  title: "Em là nàng thơ kiểu nào?",
+  title: "Em là công chúa kiểu nào?",
   intro:
     "Bài trắc nghiệm tâm lý cực kỳ khoa học, được kiểm chứng bởi anh. Chọn đáp án đầu tiên em nghĩ tới nhé.",
   questions: [
@@ -268,19 +268,19 @@ export const quiz = {
   ],
   results: [
     {
-      title: "Nàng thơ Mùa thu",
+      title: "Công chúa Mùa thu",
       text: "Dịu dàng, sâu lắng và hơi khó đoán — như một buổi chiều cuối thu. Ở cạnh em, mọi thứ chậm lại một nhịp, và anh thích nhịp ấy.",
     },
     {
-      title: "Nàng thơ Ánh nắng",
+      title: "Công chúa Ánh nắng",
       text: "Em đi tới đâu, chỗ đó sáng lên — kể cả những hôm tâm trạng anh xám xịt nhất.",
     },
     {
-      title: "Nàng thơ Cà phê sữa",
+      title: "Công chúa Cà phê sữa",
       text: "Ngọt ngào, ấm áp, có chút đắng cho vừa đủ — và gây nghiện một cách đáng sợ.",
     },
     {
-      title: "Nàng thơ Phiêu lưu",
+      title: "Công chúa Phiêu lưu",
       text: "Không bao giờ chán, luôn có kế hoạch mới. Anh chẳng cần biết mình đi đâu, miễn là đi cùng em.",
     },
   ],
