@@ -80,13 +80,13 @@ export const lookbook = {
       note: "Siu dễ thương luôn",
     },
     {
-      photo: { src: "", alt: "Công chúa trong rừng nè!", position: "50% 50%" },
+      photo: { src: "/photos/53d4be5b-e0cb-48d9-9c97-9c4b32e03777.jpg", alt: "Công chúa trong rừng nè!", position: "50% 50%" },
       place: "Thảo cầm viên",
       date: "",
       note: "Đi chơi vui lắm luôn",
     },
     {
-      photo: { src: "/photos/53d4be5b-e0cb-48d9-9c97-9c4b32e03777.jpg", alt: "Đi đu quay đồ ha", position: "50% 50%" },
+      photo: { src: "/photos/090d695a-aa58-4d11-ad9f-2a5ec47fa2f8.jpg", alt: "Đi đu quay đồ ha", position: "50% 50%" },
       place: "Ở trên trời!",
       date: "",
       note: "Say hi đồ ha",
