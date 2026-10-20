@@ -50,7 +50,7 @@ export const lookbook = {
   quote: "Người gì mà đẹp thé, xinh thé!",
   items: [
     {
-      photo: { src: "/photos/1615ea7e-10fb-4e55-bd3c-cbf426cd2dd4.jpg", alt: "[Điệu đà quá ha]", position: "50% 50%" },
+      photo: { src: "/photos/bbbe6c31-df6f-4606-9be4-46066f603684.jpg", alt: "[Điệu đà quá ha]", position: "50% 50%" },
       place: "Ở nhà Dĩ Ân",
       date: "",
       note: "Đây là ảnh đầu tiên chụp ở nhà Dĩ Ân",
