@@ -180,13 +180,13 @@ export const anatomy = {
   ],
   file: [
     { label: "Họ tên", value: HER },
-    { label: "Biệt danh", value: "[Biệt danh]" },
-    { label: "Sinh nhật", value: "[dd/mm/yyyy]" },
-    { label: "Màu sắc yêu thích", value: "[Màu sắc]" },
-    { label: "Câu cửa miệng", value: "[Câu cửa miệng]" },
-    { label: "Siêu năng lực", value: "[Siêu năng lực]" },
-    { label: "Điểm yếu", value: "[Điểm yếu]" },
-    { label: "Tình trạng", value: "[Tình trạng]" },
+    { label: "Biệt danh", value: "Chawm siu đáng iu" },
+    { label: "Sinh nhật", value: "29/12/2004" },
+    { label: "Màu sắc yêu thích", value: "Màu tím" },
+    { label: "Câu cửa miệng", value: "Dĩ Ân đâu ròi xuống đây coi" },
+    { label: "Siêu năng lực", value: "Biết khi nào Dĩ Ân quay lưng chỗ khác" },
+    { label: "Điểm yếu", value: "Dễ bị lừa" },
+    { label: "Tình trạng", value: "Có người iu" },
   ],
 };
 
