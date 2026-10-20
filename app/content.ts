@@ -193,32 +193,32 @@ export const anatomy = {
 export const roles = {
   kicker: "Women’s Day",
   intro: "Hôm nay là ngày của em mọi thứ đều sẽ nói về em!",
-  heading: "[Tiêu đề, ví dụ: Em là…]",
+  heading: "Em là công chúa của Anh",
   items: [
     {
-      tab: "[Vai 1]",
-      phrase: "[Cụm từ cho vai 1]",
-      note: "[Ghi chú cho vai 1]",
+      tab: "Con gái",
+      phrase: "Em là, Người con gái dịu dàng, đáng yêu",
+      note: "Lúc nào cũng xinh đẹp",
     },
     {
-      tab: "[Vai 2]",
-      phrase: "[Cụm từ cho vai 2]",
-      note: "[Ghi chú cho vai 2]",
+      tab: "Bạn bè",
+      phrase: "Em là, Người bạn ai cũng muốn nói chuyện",
+      note: "Siêu tâm lí. EQ IQ cao nè hehe",
     },
     {
-      tab: "[Vai 3]",
-      phrase: "[Cụm từ cho vai 3]",
-      note: "[Ghi chú cho vai 3]",
+      tab: "Công việc",
+      phrase: "Em là, Người siêu chỉn chu",
+      note: "Lúc nào vào trạng thái làm việc là rất tập trung, muốn phá cũng không được!",
     },
     {
-      tab: "[Vai 4]",
-      phrase: "[Cụm từ cho vai 4]",
-      note: "[Ghi chú cho vai 4]",
+      tab: "Người yêu",
+      phrase: "Em là, Người mà anh yêu nhất",
+      note: "Lúc nào cũng mún hun cho 1 cái",
     },
     {
-      tab: "[Vai 5]",
-      phrase: "[Cụm từ cho vai 5]",
-      note: "[Ghi chú cho vai 5]",
+      tab: "Cô giáo",
+      phrase: "Em là, Người mà gì cũng biết",
+      note: "Dạy cho anh nhiều cái chưa biết",
     },
   ],
 };
