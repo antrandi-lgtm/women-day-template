@@ -142,8 +142,8 @@ export const anatomy = {
   title: "Giải phẫu một nàng thơ",
   intro: `Một nghiên cứu nghiêm túc về những chi tiết làm nên ${HER}. Chạm vào từng con số trên ảnh nhé.`,
   photo: {
-    src: "",
-    alt: "[Mô tả ảnh chân dung]",
+    src: "/photos/bdeb5f1a-c29e-404d-a348-28dd01686b1e.jpg",
+    alt: "BỨC ẢNH XINH ƠI LÀ XINHHH",
   } satisfies Photo,
   ratio: "3 / 4",
   details: [
