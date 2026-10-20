@@ -6,14 +6,14 @@ export type Photo = {
 };
 
 const HER = "Trâm Anh";
-const ME = "[Dĩ Ân]";
+const ME = "Dĩ Ân";
 
 export const issue = {
   masthead: "MUSE",
   herName: HER,
   yourName: ME,
   volume: "Vol. 01",
-  city: "[Tây Ninh]",
+  city: "Tây Ninh",
   date: "20.10.2026",
   dateLong: "20 tháng Mười, 2026",
   price: "Vô giá",
@@ -22,32 +22,32 @@ export const issue = {
 export const cover = {
   kicker: "The October Issue",
   photo: {
-    src: "/photos/bdeb5f1a-c29e-404d-a348-28dd01686b1e.jpg",
-    alt: "[Người xinh đẹp nhất]",
+    src: "/photos/b5141cb0-f27e-4093-96d4-5dbb7e3574b2.jpg",
+    alt: "Người xinh đẹp nhất",
     position: "50% 50%",
   } satisfies Photo,
-  summary: "[Dành tăng cho em người yêu dễ thương nhất của anh]",
+  summary: "Dành tăng cho em người yêu dễ thương nhất của anh",
   photoCredit: `Ảnh: ${ME}`,
 };
 
 export const feature = {
   kicker: "Feature",
   title: "Tâm thư",
-  headline: "[Gửi em, công chúa dễ thương, đáng yêu và thơm nhất]",
-  deck: "[Hôm nay nhân ngày Phụ nữ Việt Nam 20/10, anh gửi tới em những lời yêu thương từ anh]",
+  headline: "Gửi em, công chúa dễ thương, đáng yêu và thơm nhất",
+  deck: "Hôm nay nhân ngày Phụ nữ Việt Nam 20/10, anh gửi tới em những lời yêu thương từ anh",
   paragraphs: [
-    "[Nhân ngày 20/10, anh chúc Trâm Anh luôn vui vẻ, xinh đẹp, mạnh khỏe và gặp nhiều điều may mắn trong cuộc sống. Mong em lúc nào cũng giữ được tinh thần thoải mái, làm những điều mình thích và luôn có gia đình, bạn bè bên cạnh yêu thương, quan tâm.]",
-    "[Anh cũng cảm ơn em vì đã ở bên anh, cùng anh chia sẻ những chuyện vui buồn trong cuộc sống. Anh biết đôi khi cả hai đều bận rộn, mệt mỏi và có những chuyện không như ý, nhưng anh mong tụi mình sẽ luôn thấu hiểu, chia sẻ và cùng nhau cố gắng. Anh không giỏi nói những lời hoa mỹ, chỉ mong có thể quan tâm em nhiều hơn bằng những điều nhỏ nhặt hằng ngày. Chúc Trâm Anh có một ngày 20/10 thật vui vẻ nhe, yêu em ]",
+    "Nhân ngày 20/10, anh chúc Trâm Anh luôn vui vẻ, xinh đẹp, mạnh khỏe và gặp nhiều điều may mắn trong cuộc sống. Mong em lúc nào cũng giữ được tinh thần thoải mái, làm những điều mình thích và luôn có gia đình, bạn bè bên cạnh yêu thương, quan tâm.",
+    "Anh cũng cảm ơn em vì đã ở bên anh, cùng anh chia sẻ những chuyện vui buồn trong cuộc sống. Anh biết đôi khi cả hai đều bận rộn, mệt mỏi và có những chuyện không như ý, nhưng anh mong tụi mình sẽ luôn thấu hiểu, chia sẻ và cùng nhau cố gắng. Anh không giỏi nói những lời hoa mỹ, chỉ mong có thể quan tâm em nhiều hơn bằng những điều nhỏ nhặt hằng ngày. Chúc Trâm Anh có một ngày 20/10 thật vui vẻ nhe, yêu em ",
   ],
-  pullQuote: "[Dĩ Ân có thích tui hong???]",
-  pullQuoteNote: "[Dĩ Ân thích Trâm Anh nhiều lắm ]",
+  pullQuote: "Dĩ Ân có thích tui hong???",
+  pullQuoteNote: "Dĩ Ân thích Trâm Anh nhiều lắm ",
 };
 
 export const lookbook = {
   kicker: "Lookbook",
   title: "Những khoảnh khắc",
-  intro: "[Đây là những bức ảnh của Trâm Anh xinh đẹp được lưu trữ trong thư viện của Dĩ Ân]",
-  quote: "[Người gì mà đẹp thé, xinh thé!]",
+  intro: "Đây là những bức ảnh của Trâm Anh xinh đẹp được lưu trữ trong thư viện của Dĩ Ân",
+  quote: "Người gì mà đẹp thé, xinh thé!",
   items: [
     {
       photo: { src: "", alt: "[Điệu đà quá ha]", position: "50% 50%" },
