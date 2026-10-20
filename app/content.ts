@@ -192,7 +192,7 @@ export const anatomy = {
 
 export const roles = {
   kicker: "Women’s Day",
-  intro: "[Lời giới thiệu: hôm nay mọi trang đều nói về người nhận]",
+  intro: "Hôm nay là ngày của em mọi thứ đều sẽ nói về em!",
   heading: "[Tiêu đề, ví dụ: Em là…]",
   items: [
     {
