@@ -299,7 +299,7 @@ export const wishes = {
     "Một điều em ước cho năm tới…",
   ],
   sent: "Ban biên tập đã nhận được. Thời hạn thực hiện: sớm nhất có thể.",
-  sendTo: "",
+  sendTo: "https://zalo.me/0326091879",
 };
 
 export const finale = {
