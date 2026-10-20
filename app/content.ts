@@ -86,7 +86,7 @@ export const lookbook = {
       note: "Đi chơi vui lắm luôn",
     },
     {
-      photo: { src: "/photos/090d695a-aa58-4d11-ad9f-2a5ec47fa2f8.jpg", alt: "Đi đu quay đồ ha", position: "50% 50%" },
+      photo: { src: "/photos/090d695a-aa58-4d11-ad9f-2a5ec47fa2f8.jpg", alt: "Đi đu quay đồ ha", position: "50% 30%" },
       place: "Ở trên trời!",
       date: "",
       note: "Say hi đồ ha",
