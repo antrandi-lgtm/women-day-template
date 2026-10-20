@@ -148,8 +148,8 @@ export const anatomy = {
   ratio: "3 / 4",
   details: [
     {
-      x: 30,
-      y: 30,
+      x: 20,
+      y: 40,
       name: "[Chi tiết 1]",
       text: "[Mô tả chi tiết 1]",
     },
