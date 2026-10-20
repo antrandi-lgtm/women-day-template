@@ -5,7 +5,7 @@ export type Photo = {
   position?: string;
 };
 
-const HER = "[Trâm Anh]";
+const HER = "Trâm Anh";
 const ME = "[Dĩ Ân]";
 
 export const issue = {
