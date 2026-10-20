@@ -5,15 +5,15 @@ export type Photo = {
   position?: string;
 };
 
-const HER = "[Tên nàng thơ]";
-const ME = "[Tên bạn]";
+const HER = "[Trâm Anh]";
+const ME = "[Dĩ Ân]";
 
 export const issue = {
   masthead: "MUSE",
   herName: HER,
   yourName: ME,
   volume: "Vol. 01",
-  city: "[Thành phố]",
+  city: "[Tây Ninh]",
   date: "20.10.2026",
   dateLong: "20 tháng Mười, 2026",
   price: "Vô giá",
@@ -23,91 +23,91 @@ export const cover = {
   kicker: "The October Issue",
   photo: {
     src: "",
-    alt: "[Mô tả ảnh bìa]",
+    alt: "[Người xinh đẹp nhất]",
     position: "50% 50%",
   } satisfies Photo,
-  summary: "[Một câu giới thiệu ngắn về người nhận]",
+  summary: "[Dành tăng cho em người yêu dễ thương nhất của anh]",
   photoCredit: `Ảnh: ${ME}`,
 };
 
 export const feature = {
   kicker: "Feature",
   title: "Tâm thư",
-  headline: "[Tiêu đề bức thư]",
-  deck: "[Lời mở đầu ngắn cho bức thư]",
+  headline: "[Gửi em, công chúa dễ thương, đáng yêu và thơm nhất]",
+  deck: "[Hôm nay nhân ngày Phụ nữ Việt Nam 20/10, anh gửi tới em những lời yêu thương từ anh]",
   paragraphs: [
-    "[Đoạn thư thứ nhất: lời chúc, lời cảm ơn, điều bạn muốn nói]",
-    "[Đoạn thư thứ hai: một kỷ niệm hoặc điều bạn trân trọng ở người ấy]",
+    "[Nhân ngày 20/10, anh chúc Trâm Anh luôn vui vẻ, xinh đẹp, mạnh khỏe và gặp nhiều điều may mắn trong cuộc sống. Mong em lúc nào cũng giữ được tinh thần thoải mái, làm những điều mình thích và luôn có gia đình, bạn bè bên cạnh yêu thương, quan tâm.]",
+    "[Anh cũng cảm ơn em vì đã ở bên anh, cùng anh chia sẻ những chuyện vui buồn trong cuộc sống. Anh biết đôi khi cả hai đều bận rộn, mệt mỏi và có những chuyện không như ý, nhưng anh mong tụi mình sẽ luôn thấu hiểu, chia sẻ và cùng nhau cố gắng. Anh không giỏi nói những lời hoa mỹ, chỉ mong có thể quan tâm em nhiều hơn bằng những điều nhỏ nhặt hằng ngày. Chúc Trâm Anh có một ngày 20/10 thật vui vẻ nhe, yêu em ]",
   ],
-  pullQuote: "[Câu trích nổi bật lấy từ bức thư]",
-  pullQuoteNote: "[Ghi chú dưới câu trích]",
+  pullQuote: "[Dĩ Ân có thích tui hong???]",
+  pullQuoteNote: "[Dĩ Ân thích Trâm Anh nhiều ]",
 };
 
 export const lookbook = {
   kicker: "Lookbook",
   title: "Những khoảnh khắc",
-  intro: "[Lời giới thiệu cho những khoảnh khắc được lưu giữ]",
-  quote: "[Câu trích chen giữa các ảnh]",
+  intro: "[Đây là những bức ảnh của Trâm Anh xinh đẹp được lưu trữ trong thư viện của Dĩ Ân]",
+  quote: "[Người gì mà đẹp thé, xinh thé!]",
   items: [
     {
-      photo: { src: "", alt: "[Mô tả ảnh 1]", position: "50% 50%" },
-      place: "[Địa điểm 1]",
+      photo: { src: "", alt: "[Điệu đà quá ha]", position: "50% 50%" },
+      place: "[Ở nhà Dĩ Ân]",
       date: "",
-      note: "[Ghi chú cho ảnh 1]",
+      note: "[Đây là ảnh đầu tiên chụp ở nhà Dĩ Ân]",
     },
     {
-      photo: { src: "", alt: "[Mô tả ảnh 2]", position: "50% 50%" },
-      place: "[Địa điểm 2]",
+      photo: { src: "", alt: "[Điện thoại ta là lấy selfie]", position: "50% 50%" },
+      place: "[Quán mì cay ở Gò Dầu]",
       date: "",
-      note: "[Ghi chú cho ảnh 2]",
+      note: "[Dĩ Ân từng ngắm ảnh này rất nhiều]",
     },
     {
-      photo: { src: "", alt: "[Mô tả ảnh 3]", position: "50% 50%" },
-      place: "[Địa điểm 3]",
+      photo: { src: "", alt: "[Mới mua máy ảnh nè!]", position: "50% 50%" },
+      place: "[Ở trọ cũ]",
       date: "",
-      note: "[Ghi chú cho ảnh 3]",
+      note: "[Dĩ Ân cũng thích ảnh này lắm]",
     },
     {
-      photo: { src: "", alt: "[Mô tả ảnh 4]", position: "50% 50%" },
-      place: "[Địa điểm 4]",
+      photo: { src: "", alt: "[Dễ thương quá đi!]", position: "50% 50%" },
+      place: "[Cũng ở trọ cũ]",
       date: "",
-      note: "[Ghi chú cho ảnh 4]",
+      note: "[Set ảnh này cũng siu dễ thương luôn]",
     },
     {
-      photo: { src: "", alt: "[Mô tả ảnh 5]", position: "50% 50%" },
-      place: "[Địa điểm 5]",
+      photo: { src: "", alt: "[Đi chụp photobooth nè]", position: "50% 50%" },
+      place: "[Ở GO Dĩ An]",
       date: "",
-      note: "[Ghi chú cho ảnh 5]",
+      note: "[Siu dễ thương luôn]",
     },
     {
-      photo: { src: "", alt: "[Mô tả ảnh 6]", position: "50% 50%" },
-      place: "[Địa điểm 6]",
+      photo: { src: "", alt: "[Công chúa trong rừng nè!]", position: "50% 50%" },
+      place: "[Thảo cầm viên]",
       date: "",
-      note: "[Ghi chú cho ảnh 6]",
+      note: "[Đi chơi vui lắm luôn]",
     },
     {
-      photo: { src: "", alt: "[Mô tả ảnh 7]", position: "50% 50%" },
-      place: "[Địa điểm 7]",
+      photo: { src: "", alt: "[Đi đu quay đồ ha]", position: "50% 50%" },
+      place: "[Ở trên trời!]",
       date: "",
-      note: "[Ghi chú cho ảnh 7]",
+      note: "[Say hi đồ ha]",
     },
     {
-      photo: { src: "", alt: "[Mô tả ảnh 8]", position: "50% 50%" },
-      place: "[Địa điểm 8]",
+      photo: { src: "", alt: "[Cưng quá đi]", position: "50% 50%" },
+      place: "[Ở nhà Trâm Anh]",
       date: "",
-      note: "[Ghi chú cho ảnh 8]",
+      note: "[Này vừa giận xong kêu chụp vẫn chụp nè hihi]",
     },
     {
-      photo: { src: "", alt: "[Mô tả ảnh 9]", position: "50% 50%" },
-      place: "[Địa điểm 9]",
+      photo: { src: "", alt: "[Hút hồn lun!]", position: "50% 50%" },
+      place: "[Ở trọ cũ]",
       date: "",
-      note: "[Ghi chú cho ảnh 9]",
+      note: "[Set ảnh này xem thích lắm nha he he he]",
     },
     {
-      photo: { src: "", alt: "[Mô tả ảnh 10]", position: "50% 50%" },
-      place: "[Địa điểm 10]",
+      photo: { src: "", alt: "[Người đẹp ở hồ sen]", position: "50% 50%" },
+      place: "[Khu bảo tồn gì đó]",
       date: "",
-      note: "[Ghi chú cho ảnh 10]",
+      note: "[Chỗ gì mà vắng ghê ]",
     },
   ] satisfies { photo: Photo; place: string; date: string; note: string }[],
 };
