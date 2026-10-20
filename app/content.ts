@@ -40,7 +40,7 @@ export const feature = {
     "[Anh cũng cảm ơn em vì đã ở bên anh, cùng anh chia sẻ những chuyện vui buồn trong cuộc sống. Anh biết đôi khi cả hai đều bận rộn, mệt mỏi và có những chuyện không như ý, nhưng anh mong tụi mình sẽ luôn thấu hiểu, chia sẻ và cùng nhau cố gắng. Anh không giỏi nói những lời hoa mỹ, chỉ mong có thể quan tâm em nhiều hơn bằng những điều nhỏ nhặt hằng ngày. Chúc Trâm Anh có một ngày 20/10 thật vui vẻ nhe, yêu em ]",
   ],
   pullQuote: "[Dĩ Ân có thích tui hong???]",
-  pullQuoteNote: "[Dĩ Ân thích Trâm Anh nhiều ]",
+  pullQuoteNote: "[Dĩ Ân thích Trâm Anh nhiều lắm ]",
 };
 
 export const lookbook = {
