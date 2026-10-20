@@ -22,7 +22,7 @@ export const issue = {
 export const cover = {
   kicker: "The October Issue",
   photo: {
-    src: "",
+    src: "/photos/bdeb5f1a-c29e-404d-a348-28dd01686b1e.jpg",
     alt: "[Người xinh đẹp nhất]",
     position: "50% 50%",
   } satisfies Photo,
